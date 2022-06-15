@@ -1,0 +1,1 @@
+/media/pratik/DATA/0 Program Data/Angular Web/01SMS/SMSProject/tsconfig.app.json ->BootStrap
